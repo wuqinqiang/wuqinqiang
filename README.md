@@ -4,5 +4,5 @@ Hi there 👋
 🎉 Welcome to my GitHub profile!
 
 👨🏻‍💻 I'm remember - a PHP developer
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wuqinqiang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wuqinqiang)](https://github.com/wuqinqiang/github-readme-stats)
