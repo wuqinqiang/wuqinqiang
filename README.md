@@ -5,6 +5,8 @@ Hi there 👋
 
 👨🏻‍💻 I'm remember - a PHP/Go developer
 
+🌱 I’m currently learning Rust
+
 Wechat:remember_npm_run
 
 
